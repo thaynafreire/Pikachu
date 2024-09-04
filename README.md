@@ -18,4 +18,4 @@ O intuito desse projeto é colocar em prática o conhcecimento adquirido sobre a
 ---
 
 ## Autor
-- [Thayná de Oliveira](thaynaofreire.senai@gmail.com)
+- [Thayná de Oliveira](https://www.linkedin.com/in/thayná-freire-863696297)
