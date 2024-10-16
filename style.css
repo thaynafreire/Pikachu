@@ -154,3 +154,22 @@
       align-items: center
    }
 }
+
+@media (max-width: 640px) {
+   header div{
+      display: none;
+   }
+   .title span{
+      left: 50%;
+      transform: translateX(-50%);
+   }
+   .description h2{
+      font-size: 36px;
+   }
+   .description p{
+   display: none;
+   }
+   .action{
+      width: 100%;
+   }
+}
