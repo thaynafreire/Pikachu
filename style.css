@@ -120,3 +120,37 @@
     transform: translate(-50%, -50%);
     height: 75vh;
  }
+
+ /*Tablet*/
+
+@media (max-width: 960px) {
+   body{
+      padding-inline: 32px;
+      padding-bottom: 16px;
+   }
+   main{
+      justify-content: space-between;
+   }
+   footer{
+     /*tirando footer*/
+     display: none;
+
+   }
+   .pikachu-image{
+      height: 50vh;
+   }
+   .container{
+      /*colocando texto e botao um em cima do outro*/
+      flex-direction: column;
+      align-items: center;
+      height: auto;
+      text-align: center;
+      gap: 16px;
+   }
+   .description{
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center
+   }
+}
